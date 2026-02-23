@@ -49,7 +49,17 @@ with many civilians in Darfur reported dead as part of the Masalit massacres.
 This is a very general workflow and proof of concept of nighttime light data together with Sentinel1 data and other potential datasets that can help monitor conflicts on the ground. 
 Each step can be improved based on the needs.
 
-I am Geospatial Developer but am always interested in the application of EO data for humanitarian operations.
+Feel free to check this Google Earth App to interactively check the effects of NLT data for monitoring conflicts:
+Interface:
+https://ee-spacept.projects.earthengine.app/view/using-nightime-light-to-monitor-conflicts
+
+Codes:
+https://code.earthengine.google.com/33d724506e943fbd89294f64250d1a49
+<img width="3801" height="1948" alt="image" src="https://github.com/user-attachments/assets/7e81d7be-82f4-468b-89ca-d61b945c3b30" />
+
+
+The above work was done during the intership in Spacept (https://spacept.com/).
+Currently I am Geospatial Developer in Vienna Austria but am always interested in the application of EO data for humanitarian operations.
 I sincerely anyone who is interested in such topics feels free to contact me.
 (Welcome to connect in LinkedIn: https://www.linkedin.com/in/yunya-gao-phd-9b72b1148/)
 
