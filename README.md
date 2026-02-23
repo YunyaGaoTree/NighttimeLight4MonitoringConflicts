@@ -1,7 +1,7 @@
 Developing an effective and efficient method for monitoring conflict zones with high temporal and spatial resolution can greatly benefit users in understanding ground situations to plan their humanitarian aid. 
 Here, a general workflow was proposed as shown in the following figure. The workflow mainly includes the following steps:
 
-1)	utilizes nighttime light satellite imagery (VIIRS-NPP) that can provide daily data for fast responses and early warning, https://eogdata.mines.edu/products/vnl/
+1)	utilizes nighttime light satellite imagery (VIIRS-NPP) that can provide daily data for fast responses and early warning
 2)	also makes use of Sentinel-1 data for general building damage assessment to locate specific area of interest (AOI), 
 3)	purchases and preprocess VHR satellite imagery for the selected AOI, 
 4)	uses advanced AI models (cite the paper of Sergiu if possible) to provide detailed building damage on the ground. 
