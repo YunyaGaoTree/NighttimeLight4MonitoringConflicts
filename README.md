@@ -51,6 +51,7 @@ Each step can be improved based on the needs.
 
 I am Geospatial Developer but am always interested in the application of EO data for humanitarian operations.
 I sincerely anyone who is interested in such topics feels free to contact me.
+(Welcome to connect in LinkedIn: https://www.linkedin.com/in/yunya-gao-phd-9b72b1148/)
 
 
 
