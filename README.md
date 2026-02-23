@@ -45,9 +45,10 @@ As of 5 July 2024, over 7.7 million were internally displaced, and more than 2.1
 with many civilians in Darfur reported dead as part of the Masalit massacres.
 <img width="1090" height="385" alt="image" src="https://github.com/user-attachments/assets/9d21d639-386b-4a28-b728-c4439a2ed6a7" />
 
-**Conclusions
+**HOW TO USE
 This is a very general workflow and proof of concept of nighttime light data together with Sentinel1 data and other potential datasets that can help monitor conflicts on the ground. 
-Each step can be improved based on the needs.
+Each step can be improved based on the needs. 
+ATTENTION: The AOIs provided in this repo are not accurate. They are only used to test the effectiveness of the workflow and codes.
 
 Feel free to check this Google Earth App to interactively check the effects of NLT data for monitoring conflicts:
 Interface:
@@ -57,10 +58,16 @@ Codes:
 https://code.earthengine.google.com/33d724506e943fbd89294f64250d1a49
 <img width="3801" height="1948" alt="image" src="https://github.com/user-attachments/assets/7e81d7be-82f4-468b-89ca-d61b945c3b30" />
 
+The following link includes the GIF of NTL changes and statistics for two zones.
+https://github.com/YunyaGaoTree/NighttimeLight4MonitoringConflicts/tree/main/Gif_Stats_For_Conflict_Zones_Examples
+
+The following JupyterNote book can be used to create the above GIFs and stats for your own needs. 
+Besides, it includes building damage detection based on Sentinel1 data and one open-source deep learning models for VHR data. 
+https://github.com/YunyaGaoTree/NighttimeLight4MonitoringConflicts/blob/main/GEE4NightLight_BuildingDamage_Final_with_Results.ipynb
 
 The above work was done during the intership in Spacept (https://spacept.com/).
 Currently I am Geospatial Developer in Vienna Austria but am always interested in the application of EO data for humanitarian operations.
-I sincerely anyone who is interested in such topics feels free to contact me.
+I sincerely invite anyone who is interested in such topics to contact me freely.
 (Welcome to connect in LinkedIn: https://www.linkedin.com/in/yunya-gao-phd-9b72b1148/)
 
 
