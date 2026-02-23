@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark id="1.2.1">
+	<name>Donbas</name>
+	<address>Ukraine</address>
+	<snippet>Ukraine</snippet>
+	<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=47.89499254999999&lng=38.7719898&fid=0x40e05f04b37f864b:0xdeb883d9fc6ef1&hl=en&gl=at&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+	<styleUrl>#geocode</styleUrl>
+	<ExtendedData>
+		<Data name="placepageUri">
+			<value>https://www.google.com/earth/rpc/entity?lat=47.89499254999999&amp;lng=38.7719898&amp;fid=0x40e05f04b37f864b:0xdeb883d9fc6ef1&amp;hl=en&amp;gl=at&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+		</Data>
+	</ExtendedData>
+	<MultiGeometry>
+		<Point>
+			<coordinates>38.5920837,48.1031637,0</coordinates>
+		</Point>
+		<LinearRing>
+			<coordinates>
+				37.09005324207084,46.97664085655312,0 37.09005324207084,49.22968654344687,0 40.09411415792916,49.22968654344687,0 40.09411415792916,46.97664085655312,0 37.09005324207084,46.97664085655312,0 
+			</coordinates>
+		</LinearRing>
+	</MultiGeometry>
+</Placemark>
+</kml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Congo.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Congo</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						28.83264898146776,-2.454353591818525,0 28.81279537430201,-2.471256440852236,0 28.82049790970085,-2.507176540266627,0 28.82752218768977,-2.534515139075132,0 28.8550522915468,-2.562884492742372,0 28.8686420970221,-2.572784390793678,0 28.89515675448608,-2.577325454686406,0 28.89663007535009,-2.560478609486856,0 28.87641814284222,-2.537518211463933,0 28.86722591486946,-2.522429723041918,0 28.87578680222751,-2.511794260355313,0 28.89426243682252,-2.506820388027724,0 28.90733586137538,-2.495105244120917,0 28.92449146379054,-2.50461942652268,0 28.9329132080355,-2.500246879821641,0 28.93004421908743,-2.45168641655975,0 28.90619267326347,-2.444548062502667,0 28.89812760079506,-2.466083931535156,0 28.88695136327969,-2.483938804788593,0 28.8704942402387,-2.489317786373693,0 28.85298132158608,-2.490430780714442,0 28.83960563179769,-2.456778657856274,0 28.83264898146776,-2.454353591818525,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
